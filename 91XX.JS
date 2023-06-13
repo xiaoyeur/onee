@@ -1,14 +1,4 @@
 /******************************
-
-脚本功能：91视频解锁永久会员
-应用版本：7.5.0
-应用下载：https://bit.ly/43Gofr5
-脚本作者：Hausd0rff
-更新时间：2023-06-02
-脚本发布：https://t.me/yqc_123
-使用声明：‼️脚本仅供学习交流, 🈲️商业用途
-*******************************
-[rewrite_local]
 # > 91视频解锁永久会员
 ^https?:\/\/.*\/m_user\/info url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/JiuYiPornVideoCrack.js
 ^https?:\/\/.*\/m_sns\/(film|video|short_video)\/(film_detail|detail_list|apply_play) url script-request-header https://raw.githubusercontent.com/yqc007/QuantumultX/master/JiuYiPornMediaCrack.js
